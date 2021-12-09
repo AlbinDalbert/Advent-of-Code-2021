@@ -1,0 +1,1 @@
+gcc -Wall 1.c -o day1
